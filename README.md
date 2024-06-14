@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amazn1234
-- 👀 I’m interested in Photography, Building Computers, Programming, and information Technology
-- 🌱 I’m currently learning C, C++, computer troubleshooting, and Information Technology.
+- 👀 I’m interested in Photography, FPV Drones, Building Computers, Programming, and information Technology
+- 🌱 I’m currently learning C, C++, HTML, JavaScript, nodeJS, computer troubleshooting, and Information Technology.
 
 <!---
 Amazn1234/Amazn1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
